@@ -1,7 +1,9 @@
-### Hello, I'm Sebastien 👋
-
-I'm CEO at [NuxtLabs](https://nuxtlabs.com), focusing on developing an intuitive developer experience to create modern websites.
-
-I am the creator of the open source framework [Nuxt](https://github.com/nuxt/nuxt.js). You may want to check [Nuxt 3](https://github.com/nuxt/framework) 👀
-
-If you like what I'm doing, consider following me on [**Twitter**](https://twitter.com/Atinux) or [**LinkedIn**](https://www.linkedin.com/in/atinux/).
+<p align="center">
+  <samp>
+    Focusing to provide the best <strong title="Developer Experience">DX</strong> to deliver the best <strong title="User Experience">UX</strong> with <a href="https://v3.nuxtjs.org">Nuxt</a>.<br/>
+    <a href="https://atinux.com">Website</a> .
+    <a href="https://twitter.com/Atinux">Twitter</a> .
+    <a href="https://linkedin.com/in/atinux/">LinkedIn</a> .
+    <a href="https://instagram.com/Atinuxt">Instagram</a>
+  </samp>
+</p>
