@@ -7,6 +7,7 @@
     <a href="https://atinux.com">Website</a> .
     <a href="https://x/Atinux">X</a> .
     <a href="https://linkedin.com/in/atinux/">LinkedIn</a>
+    <img src="https://u8views.com/api/v1/github/profiles/904724/views/day-week-month-total-count.svg" width="0" height="0" />
   </samp>
 </p>
 </td>
