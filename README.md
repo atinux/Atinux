@@ -13,7 +13,7 @@
 </td>
     <td>
 <p align="center">
-  <a href="https://nuxters.nuxt.com/atinux"><img src="https://nuxters.nuxt.com/__og-image__/image/Atinux/og.png" alt="Atinux on Nuxters" width="300" /></a>
+  <a href="https://nuxt.com/nuxters/atinux"><img src="https://nuxt.com/nuxters/atinux/card.png" alt="Atinux on Nuxters" width="300" /></a>
 </p>
       </td>
 </tr>
